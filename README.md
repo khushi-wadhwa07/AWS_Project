@@ -1,4 +1,4 @@
-AWS
+# AWS
 Server Based Architecture 
 
 NOTE: After the Creation of the Website I terminated all the AWS Services I used because else I would ask to pay the charge for these services[ Pay-as-you-go pricing ]
